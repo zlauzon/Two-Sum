@@ -6,8 +6,8 @@ A solution I have written to solve the Two Sum programming challenge.
 Some stats about my solution:
 <ul>
 	<li>57 / 57 test cases passed.</li>
-	<li>Runtime: 767 ms <code>runtime beats 64.12 % of cpp submissions</code></li>
-	<li>Memory Usage: 10.1 MB <code>memory usage beats 97.78 % of cpp submissions</code></li>
+	<li>Runtime: 767 ms <code>runtime beats 13.71 % of cpp submissions</code></li>
+	<li>Memory Usage: 10.1 MB <code>memory usage beats 88.30 % of cpp submissions</code></li>
 </ul>
 <br>
 <br>
